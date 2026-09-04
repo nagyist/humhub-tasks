@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.9.7 (Unreleased)
+------------------
+- Enh: Automated code refactoring for HumHub 1.18.0-beta.6 using Rector
+
 1.9.6 (July 8, 2026)
 --------------------
 - Fix #322: Fix reminder notification
