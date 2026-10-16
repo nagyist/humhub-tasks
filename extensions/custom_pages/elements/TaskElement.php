@@ -43,7 +43,7 @@ class TaskElement extends BaseContentRecordElement implements \Stringable
 
     public function __toString(): string
     {
-        return Html::encode($this->record?->title);
+        return (string) Html::encode($this->record?->title);
     }
 
     /**

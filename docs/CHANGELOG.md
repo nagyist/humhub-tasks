@@ -6,6 +6,7 @@ Changelog
 - Fix #256: Allow task creation via REST API and list button for users with "Manage All Content" permission
 - Fix: Refined drag and drop sorting
 - Fix: Refined task list API handling
+- Enh: Automated code refactoring for HumHub 1.18.0-beta.6 using Rector
 
 1.9.7 (September 8, 2026)
 -------------------------
